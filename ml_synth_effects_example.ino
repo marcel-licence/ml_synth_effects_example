@@ -85,8 +85,7 @@ ML_PitchShifter pitchShifter(SAMPLE_RATE);
 void setup()
 {
     Serial.begin(SERIAL_BAUDRATE);
-    Serial.print(F("Hello! ST77xx TFT Test"));
-
+    Serial.print(F("ml_synth_effects_example\n"));
 
     /*
      * this code runs once
