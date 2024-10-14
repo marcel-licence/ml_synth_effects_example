@@ -48,8 +48,9 @@
 
 /*
  * Library can be found on https://github.com/marcel-licence/ML_SynthTools
+ * and you might need https://github.com/marcel-licence/ML_SynthTools_Lib too
  */
-#include <ml_delay.h>
+#include <ml_delay_q.h>
 #include <ml_lfo.h>
 #include <ml_phaser.h>
 #include <ml_pitch_shifter.h>
