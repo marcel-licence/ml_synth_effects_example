@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2023 Marcel Licence
+ * Copyright (c) 2024 Marcel Licence
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -56,8 +56,8 @@
 #define CONFIG_H_
 
 
-//#define BOARD_ML_SYNTH_V2 /* my second DIY PCB */
-#define BOARD_ESP32_AUDIO_KIT_AC101 /* this configures the project to run on the ESP32 audio kit with the AC101 codec */
+#define BOARD_ML_SYNTH_V2 /* my second DIY PCB */
+//#define BOARD_ESP32_AUDIO_KIT_AC101 /* this configures the project to run on the ESP32 audio kit with the AC101 codec */
 //#define BOARD_ESP32_AUDIO_KIT_ES8388 /* this configures the project to run on the ESP32 audio kit with the ES8388 codec - you may configure the board file as-well */
 
 
